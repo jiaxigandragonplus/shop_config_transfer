@@ -21,13 +21,13 @@ ACTIVITY_S3_PATH_DEV="$S3_BASE_PATH_DEV/activity"
 # 检查是否提供了目录路径
 if [ -z "$ACTIVITY_LOCAL_DIR" ]; then
   echo "Error: No directory path provided."
-  exit 1
+  exit 2
 fi
 
 # 检查目录是否存在
 if [ ! -d "$ACTIVITY_LOCAL_DIR" ]; then
   echo "Error: Directory $ACTIVITY_LOCAL_DIR does not exist."
-  exit 1
+  exit 3
 fi
 
 # echo "**********GeneratingData**********"
