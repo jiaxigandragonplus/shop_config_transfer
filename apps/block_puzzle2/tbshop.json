@@ -1,1 +1,1273 @@
-{}
+[
+  {
+    "id": 1,
+    "shopType": 1,
+    "price": "1.99",
+    "icon": "ui_blockpuzzle_shop_coin2",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.gold1",
+    "iosProductId": "com.dav.puzzleblock.shop.gold1",
+    "realProductId": "com.dav.puzzleblock.shop.gold1",
+    "iosRealProductId": "com.dav.puzzleblock.shop.gold1",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 250
+      }
+    ],
+    "name": 104055,
+    "desciption": 104055,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 7,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 2,
+    "shopType": 1,
+    "price": "7.99",
+    "icon": "ui_blockpuzzle_shop_coin3",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.gold2",
+    "iosProductId": "com.dav.puzzleblock.shop.gold2",
+    "realProductId": "com.dav.puzzleblock.shop.gold2",
+    "iosRealProductId": "com.dav.puzzleblock.shop.gold2",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 1250
+      }
+    ],
+    "name": 104056,
+    "desciption": 104056,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 3,
+    "shopType": 1,
+    "price": "13.99",
+    "icon": "ui_blockpuzzle_shop_coin4",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.gold3",
+    "iosProductId": "com.dav.puzzleblock.shop.gold3",
+    "realProductId": "com.dav.puzzleblock.shop.gold3",
+    "iosRealProductId": "com.dav.puzzleblock.shop.gold3",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 2500
+      }
+    ],
+    "name": 104057,
+    "desciption": 104057,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 4,
+    "shopType": 1,
+    "price": "27.99",
+    "icon": "ui_blockpuzzle_shop_coin5",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.gold4",
+    "iosProductId": "com.dav.puzzleblock.shop.gold4",
+    "realProductId": "com.dav.puzzleblock.shop.gold4",
+    "iosRealProductId": "com.dav.puzzleblock.shop.gold4",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 5500
+      }
+    ],
+    "name": 104058,
+    "desciption": 104058,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 5,
+    "shopType": 1,
+    "price": "54.99",
+    "icon": "ui_blockpuzzle_shop_coin6",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.gold5",
+    "iosProductId": "com.dav.puzzleblock.shop.gold5",
+    "realProductId": "com.dav.puzzleblock.shop.gold5",
+    "iosRealProductId": "com.dav.puzzleblock.shop.gold5",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 12000
+      }
+    ],
+    "name": 104059,
+    "desciption": 104059,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 6,
+    "shopType": 1,
+    "price": "99.99",
+    "icon": "ui_blockpuzzle_shop_coin7",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.gold6",
+    "iosProductId": "com.dav.puzzleblock.shop.gold6",
+    "realProductId": "com.dav.puzzleblock.shop.gold6",
+    "iosRealProductId": "com.dav.puzzleblock.shop.gold6",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 25000
+      }
+    ],
+    "name": 104060,
+    "desciption": 104060,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 7,
+    "shopType": 1,
+    "price": "1.99",
+    "icon": "ui_blockpuzzle_shop_coin2",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.doublegold1",
+    "iosProductId": "com.dav.puzzleblock.shop.doublegold1",
+    "realProductId": "com.dav.puzzleblock.shop.doublegold1",
+    "iosRealProductId": "com.dav.puzzleblock.shop.doublegold1",
+    "purchaseType": 0,
+    "tag": 4,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 500
+      }
+    ],
+    "name": 104055,
+    "desciption": 104055,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 1,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 101,
+    "shopType": 2,
+    "price": "4.99",
+    "icon": "ui_blockpuzzle_shop_prize4",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.normalpack1",
+    "iosProductId": "com.dav.puzzleblock.shop.normalpack1",
+    "realProductId": "com.dav.puzzleblock.shop.normalpack1",
+    "iosRealProductId": "com.dav.puzzleblock.shop.normalpack1",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 800
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      },
+      {
+        "itemId": 13,
+        "itemNum": 1
+      },
+      {
+        "itemId": 21,
+        "itemNum": 1
+      }
+    ],
+    "name": 104043,
+    "desciption": 104043,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 1,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 3001,
+    "canRevival": false
+  },
+  {
+    "id": 102,
+    "shopType": 2,
+    "price": "6.99",
+    "icon": "ui_blockpuzzle_shop_prize4",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.normalpack2",
+    "iosProductId": "com.dav.puzzleblock.shop.normalpack2",
+    "realProductId": "com.dav.puzzleblock.shop.normalpack2",
+    "iosRealProductId": "com.dav.puzzleblock.shop.normalpack2",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 200
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      },
+      {
+        "itemId": 13,
+        "itemNum": 1
+      },
+      {
+        "itemId": 21,
+        "itemNum": 1
+      }
+    ],
+    "name": 104043,
+    "desciption": 104043,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 101,
+    "duration": 0,
+    "order": 3002,
+    "canRevival": true
+  },
+  {
+    "id": 103,
+    "shopType": 2,
+    "price": "9.99",
+    "icon": "ui_blockpuzzle_shop_prize1",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.normalpack3",
+    "iosProductId": "com.dav.puzzleblock.shop.normalpack3",
+    "realProductId": "com.dav.puzzleblock.shop.normalpack3",
+    "iosRealProductId": "com.dav.puzzleblock.shop.normalpack3",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 1000
+      },
+      {
+        "itemId": 10,
+        "itemNum": 2
+      },
+      {
+        "itemId": 11,
+        "itemNum": 2
+      },
+      {
+        "itemId": 12,
+        "itemNum": 2
+      },
+      {
+        "itemId": 13,
+        "itemNum": 2
+      },
+      {
+        "itemId": 21,
+        "itemNum": 1
+      }
+    ],
+    "name": 104044,
+    "desciption": 104044,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 3003,
+    "canRevival": true
+  },
+  {
+    "id": 104,
+    "shopType": 2,
+    "price": "19.99",
+    "icon": "ui_blockpuzzle_shop_prize2",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.normalpack4",
+    "iosProductId": "com.dav.puzzleblock.shop.normalpack4",
+    "realProductId": "com.dav.puzzleblock.shop.normalpack4",
+    "iosRealProductId": "com.dav.puzzleblock.shop.normalpack4",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 2500
+      },
+      {
+        "itemId": 10,
+        "itemNum": 4
+      },
+      {
+        "itemId": 11,
+        "itemNum": 4
+      },
+      {
+        "itemId": 12,
+        "itemNum": 4
+      },
+      {
+        "itemId": 13,
+        "itemNum": 4
+      },
+      {
+        "itemId": 23,
+        "itemNum": 1
+      }
+    ],
+    "name": 104045,
+    "desciption": 104045,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 3004,
+    "canRevival": false
+  },
+  {
+    "id": 105,
+    "shopType": 2,
+    "price": "39.99",
+    "icon": "ui_blockpuzzle_shop_prize3",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.normalpack5",
+    "iosProductId": "com.dav.puzzleblock.shop.normalpack5",
+    "realProductId": "com.dav.puzzleblock.shop.normalpack5",
+    "iosRealProductId": "com.dav.puzzleblock.shop.normalpack5",
+    "purchaseType": 0,
+    "tag": 3,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 5500
+      },
+      {
+        "itemId": 10,
+        "itemNum": 8
+      },
+      {
+        "itemId": 11,
+        "itemNum": 8
+      },
+      {
+        "itemId": 12,
+        "itemNum": 8
+      },
+      {
+        "itemId": 13,
+        "itemNum": 8
+      },
+      {
+        "itemId": 25,
+        "itemNum": 1
+      }
+    ],
+    "name": 104046,
+    "desciption": 104046,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 3005,
+    "canRevival": false
+  },
+  {
+    "id": 201,
+    "shopType": 4,
+    "price": "0.99",
+    "icon": "ui_blockpuzzle_shop_coin3",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.normalpack6",
+    "iosProductId": "com.dav.puzzleblock.shop.normalpack6",
+    "realProductId": "com.dav.puzzleblock.shop.normalpack6",
+    "iosRealProductId": "com.dav.puzzleblock.shop.normalpack6",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      }
+    ],
+    "name": 104065,
+    "desciption": 104065,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": true
+  },
+  {
+    "id": 202,
+    "shopType": 4,
+    "price": "2.99",
+    "icon": "ui_blockpuzzle_shop_coin3",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.normalpack7",
+    "iosProductId": "com.dav.puzzleblock.shop.normalpack7",
+    "realProductId": "com.dav.puzzleblock.shop.normalpack7",
+    "iosRealProductId": "com.dav.puzzleblock.shop.normalpack7",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      },
+      {
+        "itemId": 13,
+        "itemNum": 1
+      }
+    ],
+    "name": 104065,
+    "desciption": 104065,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": true
+  },
+  {
+    "id": 203,
+    "shopType": 3,
+    "price": "0.99",
+    "icon": "ui_blockpuzzle_shop_coin3",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.firstpack",
+    "iosProductId": "com.dav.puzzleblock.shop.firstpack",
+    "realProductId": "com.dav.puzzleblock.shop.firstpack",
+    "iosRealProductId": "com.dav.puzzleblock.shop.firstpack",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 80
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      },
+      {
+        "itemId": 21,
+        "itemNum": 1
+      }
+    ],
+    "name": 104066,
+    "desciption": 104066,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 1,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 172800,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 301,
+    "shopType": 3,
+    "price": "5.99",
+    "icon": "",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.adfree1",
+    "iosProductId": "com.dav.puzzleblock.shop.adfree",
+    "realProductId": "com.dav.puzzleblock.shop.adfree1",
+    "iosRealProductId": "com.dav.puzzleblock.shop.adfree",
+    "purchaseType": 1,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 110,
+        "itemNum": 1
+      }
+    ],
+    "name": 104007,
+    "desciption": 104007,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 2001,
+    "canRevival": false
+  },
+  {
+    "id": 302,
+    "shopType": 3,
+    "price": "13.99",
+    "icon": "",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.adfree2",
+    "iosProductId": "com.dav.puzzleblock.shop.adfree2",
+    "realProductId": "com.dav.puzzleblock.shop.adfree2",
+    "iosRealProductId": "com.dav.puzzleblock.shop.adfree2",
+    "purchaseType": 1,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 110,
+        "itemNum": 1
+      },
+      {
+        "itemId": 1,
+        "itemNum": 1000
+      },
+      {
+        "itemId": 10,
+        "itemNum": 2
+      },
+      {
+        "itemId": 11,
+        "itemNum": 2
+      },
+      {
+        "itemId": 12,
+        "itemNum": 2
+      },
+      {
+        "itemId": 13,
+        "itemNum": 2
+      }
+    ],
+    "name": 104007,
+    "desciption": 104007,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 2002,
+    "canRevival": false
+  },
+  {
+    "id": 401,
+    "shopType": 3,
+    "price": "0.99",
+    "icon": "ui_blockpuzzle_shop_coin1",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.segmentpack1",
+    "iosProductId": "com.dav.puzzleblock.shop.segmentpack1",
+    "realProductId": "com.dav.puzzleblock.shop.segmentpack1",
+    "iosRealProductId": "com.dav.puzzleblock.shop.segmentpack1",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      }
+    ],
+    "name": 104051,
+    "desciption": 104051,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 402,
+    "shopType": 3,
+    "price": "1.99",
+    "icon": "ui_blockpuzzle_shop_coin1",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.segmentpack2",
+    "iosProductId": "com.dav.puzzleblock.shop.segmentpack02",
+    "realProductId": "com.dav.puzzleblock.shop.segmentpack2",
+    "iosRealProductId": "com.dav.puzzleblock.shop.segmentpack02",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 200
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      }
+    ],
+    "name": 104051,
+    "desciption": 104051,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 403,
+    "shopType": 3,
+    "price": "2.99",
+    "icon": "ui_blockpuzzle_shop_coin2",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.segmentpack3",
+    "iosProductId": "com.dav.puzzleblock.shop.segmentpack03",
+    "realProductId": "com.dav.puzzleblock.shop.segmentpack3",
+    "iosRealProductId": "com.dav.puzzleblock.shop.segmentpack03",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 400
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      }
+    ],
+    "name": 104051,
+    "desciption": 104051,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 404,
+    "shopType": 3,
+    "price": "4.99",
+    "icon": "ui_blockpuzzle_shop_coin3",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.segmentpack4",
+    "iosProductId": "com.dav.puzzleblock.shop.segmentpack04",
+    "realProductId": "com.dav.puzzleblock.shop.segmentpack4",
+    "iosRealProductId": "com.dav.puzzleblock.shop.segmentpack04",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 600
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      },
+      {
+        "itemId": 13,
+        "itemNum": 1
+      },
+      {
+        "itemId": 21,
+        "itemNum": 1
+      }
+    ],
+    "name": 104051,
+    "desciption": 104051,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 405,
+    "shopType": 3,
+    "price": "6.99",
+    "icon": "ui_blockpuzzle_shop_coin4",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.segmentpack5",
+    "iosProductId": "com.dav.puzzleblock.shop.segmentpack05",
+    "realProductId": "com.dav.puzzleblock.shop.segmentpack5",
+    "iosRealProductId": "com.dav.puzzleblock.shop.segmentpack05",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 1000
+      },
+      {
+        "itemId": 10,
+        "itemNum": 2
+      },
+      {
+        "itemId": 11,
+        "itemNum": 2
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      },
+      {
+        "itemId": 13,
+        "itemNum": 1
+      },
+      {
+        "itemId": 21,
+        "itemNum": 1
+      }
+    ],
+    "name": 104051,
+    "desciption": 104051,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 406,
+    "shopType": 3,
+    "price": "9.99",
+    "icon": "ui_blockpuzzle_shop_coin5",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.segmentpack6",
+    "iosProductId": "com.dav.puzzleblock.shop.segmentpack06",
+    "realProductId": "com.dav.puzzleblock.shop.segmentpack6",
+    "iosRealProductId": "com.dav.puzzleblock.shop.segmentpack06",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 1200
+      },
+      {
+        "itemId": 10,
+        "itemNum": 3
+      },
+      {
+        "itemId": 11,
+        "itemNum": 3
+      },
+      {
+        "itemId": 12,
+        "itemNum": 2
+      },
+      {
+        "itemId": 13,
+        "itemNum": 2
+      },
+      {
+        "itemId": 23,
+        "itemNum": 1
+      }
+    ],
+    "name": 104051,
+    "desciption": 104051,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 407,
+    "shopType": 3,
+    "price": "13.99",
+    "icon": "ui_blockpuzzle_shop_coin6",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.segmentpack7",
+    "iosProductId": "com.dav.puzzleblock.shop.segmentpack07",
+    "realProductId": "com.dav.puzzleblock.shop.segmentpack7",
+    "iosRealProductId": "com.dav.puzzleblock.shop.segmentpack07",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 1500
+      },
+      {
+        "itemId": 10,
+        "itemNum": 4
+      },
+      {
+        "itemId": 11,
+        "itemNum": 4
+      },
+      {
+        "itemId": 12,
+        "itemNum": 4
+      },
+      {
+        "itemId": 13,
+        "itemNum": 3
+      },
+      {
+        "itemId": 23,
+        "itemNum": 1
+      }
+    ],
+    "name": 104051,
+    "desciption": 104051,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 408,
+    "shopType": 3,
+    "price": "19.99",
+    "icon": "ui_blockpuzzle_shop_coin7",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.segmentpack8",
+    "iosProductId": "com.dav.puzzleblock.shop.segmentpack08",
+    "realProductId": "com.dav.puzzleblock.shop.segmentpack8",
+    "iosRealProductId": "com.dav.puzzleblock.shop.segmentpack08",
+    "purchaseType": 0,
+    "tag": 1,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 2000
+      },
+      {
+        "itemId": 10,
+        "itemNum": 5
+      },
+      {
+        "itemId": 11,
+        "itemNum": 5
+      },
+      {
+        "itemId": 12,
+        "itemNum": 5
+      },
+      {
+        "itemId": 13,
+        "itemNum": 4
+      },
+      {
+        "itemId": 23,
+        "itemNum": 1
+      }
+    ],
+    "name": 104051,
+    "desciption": 104051,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 501,
+    "shopType": 6,
+    "price": "19.99",
+    "icon": "",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.goldenpass",
+    "iosProductId": "com.dav.puzzleblock.shop.goldenpass",
+    "realProductId": "com.dav.puzzleblock.shop.goldenpass",
+    "iosRealProductId": "com.dav.puzzleblock.shop.goldenpass",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [],
+    "name": 202002,
+    "desciption": 202002,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": true
+  },
+  {
+    "id": 601,
+    "shopType": 2,
+    "price": "3.99",
+    "icon": "",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.triplegift1",
+    "iosProductId": "com.dav.puzzleblock.shop.triplegift1",
+    "realProductId": "com.dav.puzzleblock.shop.triplegift1",
+    "iosRealProductId": "com.dav.puzzleblock.shop.triplegift1",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 500
+      },
+      {
+        "itemId": 10,
+        "itemNum": 1
+      },
+      {
+        "itemId": 11,
+        "itemNum": 1
+      },
+      {
+        "itemId": 12,
+        "itemNum": 1
+      },
+      {
+        "itemId": 13,
+        "itemNum": 1
+      }
+    ],
+    "name": 104043,
+    "desciption": 104043,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 602,
+    "shopType": 2,
+    "price": "6.99",
+    "icon": "",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.triplegift2",
+    "iosProductId": "com.dav.puzzleblock.shop.triplegift2",
+    "realProductId": "com.dav.puzzleblock.shop.triplegift2",
+    "iosRealProductId": "com.dav.puzzleblock.shop.triplegift2",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 1000
+      },
+      {
+        "itemId": 10,
+        "itemNum": 2
+      },
+      {
+        "itemId": 11,
+        "itemNum": 2
+      },
+      {
+        "itemId": 12,
+        "itemNum": 2
+      },
+      {
+        "itemId": 13,
+        "itemNum": 2
+      },
+      {
+        "itemId": 23,
+        "itemNum": 1
+      }
+    ],
+    "name": 104043,
+    "desciption": 104043,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 603,
+    "shopType": 2,
+    "price": "9.99",
+    "icon": "",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.triplegift3",
+    "iosProductId": "com.dav.puzzleblock.shop.triplegift3",
+    "realProductId": "com.dav.puzzleblock.shop.triplegift3",
+    "iosRealProductId": "com.dav.puzzleblock.shop.triplegift3",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 1500
+      },
+      {
+        "itemId": 10,
+        "itemNum": 3
+      },
+      {
+        "itemId": 11,
+        "itemNum": 3
+      },
+      {
+        "itemId": 12,
+        "itemNum": 3
+      },
+      {
+        "itemId": 13,
+        "itemNum": 3
+      },
+      {
+        "itemId": 201,
+        "itemNum": 3
+      },
+      {
+        "itemId": 202,
+        "itemNum": 3
+      },
+      {
+        "itemId": 24,
+        "itemNum": 1
+      }
+    ],
+    "name": 104043,
+    "desciption": 104043,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 0,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  },
+  {
+    "id": 604,
+    "shopType": 2,
+    "price": "16.99",
+    "icon": "",
+    "bg": "",
+    "productId": "com.dav.puzzleblock.shop.triplegift4",
+    "iosProductId": "com.dav.puzzleblock.shop.triplegift4",
+    "realProductId": "com.dav.puzzleblock.shop.triplegift4",
+    "iosRealProductId": "com.dav.puzzleblock.shop.triplegift4",
+    "purchaseType": 0,
+    "tag": 0,
+    "itemList": [
+      {
+        "itemId": 1,
+        "itemNum": 3000
+      },
+      {
+        "itemId": 10,
+        "itemNum": 6
+      },
+      {
+        "itemId": 11,
+        "itemNum": 6
+      },
+      {
+        "itemId": 12,
+        "itemNum": 6
+      },
+      {
+        "itemId": 13,
+        "itemNum": 6
+      },
+      {
+        "itemId": 201,
+        "itemNum": 3
+      },
+      {
+        "itemId": 202,
+        "itemNum": 3
+      },
+      {
+        "itemId": 23,
+        "itemNum": 3
+      }
+    ],
+    "name": 104043,
+    "desciption": 104043,
+    "itemCost": [],
+    "showItemNum": true,
+    "discount": 20,
+    "purchaseLimit": 0,
+    "dayPurchaseLimit": 0,
+    "prevProduct": 0,
+    "duration": 0,
+    "order": 0,
+    "canRevival": false
+  }
+]
