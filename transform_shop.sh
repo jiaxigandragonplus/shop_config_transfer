@@ -6,7 +6,7 @@ if [ -z "$app" ]; then
 fi
 
 input=./apps/($app)/tbshop.json
-output=./shop.json
+output=../ServerConfigs/prod/$app/api/shop.json
 
 if ! [ -e "./bin/shop_transformer" ]; then
   echo " ./bin/shop_transformer not exist "
