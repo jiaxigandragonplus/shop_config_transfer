@@ -6,7 +6,7 @@ if [ -z "$app" ]; then
 fi
 
 input=./apps/$app/tbshop.json
-output=../ServerConfigs/prod/$app/api/shop.json
+output=../ServerConfig/prod/$app/api/shop.json
 
 # 检查输入文件是否存在
 if [ ! -f "$input" ]; then
